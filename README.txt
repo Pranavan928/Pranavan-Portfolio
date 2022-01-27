@@ -8,6 +8,8 @@ favicon.ico       - Favicon placeholder.
 index.html        - Main HTML page.
 *.html            - Additional HTML pages .
 
+link : https://pranavan928.github.io/Pranavan-Portfolio/
+
 
 
 
